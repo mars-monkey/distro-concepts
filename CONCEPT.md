@@ -22,4 +22,9 @@
 * rEFInd bootloader
 * default option uses proprietary drivers if their hardware is detected
 * option to boot without proprietary drivers
-* ISO identical to final install
+* ISO same as final install
+* Calamares fork as installer
+* Encrypted btrfs with snapper by default
+* Import some preferences/data/configs from other os partition?
+* Secure Boot enabled
+* 
