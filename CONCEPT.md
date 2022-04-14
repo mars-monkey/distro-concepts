@@ -3,7 +3,7 @@
 
 * XanMod edge default kernel, XanMod stable as backup
 
-# Modern Desktop Technologies
+## Modern Desktop Technologies
 * Wayland, X11 available as backup
 
 * Pipewire (WirePlumber), PulseAudio available as backup
@@ -12,7 +12,7 @@
 
 * Flathub enabled out of the box
 
-# Desktop Environment Configuration
+## Desktop Environment Configuration
 * Minimal Plasma desktop installation
 
 * Customized Orchis Qt theme
