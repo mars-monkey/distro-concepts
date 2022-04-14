@@ -1,4 +1,4 @@
-###### System Base
+### System Base
 * Based on openSUSE MicroOS with KDE desktop package
 
 * XanMod edge default kernel, XanMod stable as backup
