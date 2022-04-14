@@ -1,5 +1,5 @@
 # System Base
-* Based on openSUSE MicroOS with KDE desktop packages
+* Based on openSUSE MicroOS with KDE desktop package
 
 * XanMod edge default kernel, XanMod stable as backup
 
@@ -13,7 +13,6 @@
 * Flathub enabled out of the box
 
 # Desktop Environment Configuration
-
 * Minimal Plasma desktop installation
 
 * Customized Orchis Qt theme
@@ -24,6 +23,6 @@
 
 * SDDM theme based on Chili
 
-Clock and resource monitor widgets
+* Clock and resource monitor widgets
 
-Curated custom wallpapers
+* Curated custom wallpapers
