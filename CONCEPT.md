@@ -1,7 +1,6 @@
 ## System Base
 * Based on openSUSE MicroOS with KDE desktop package
 * XanMod edge default kernel, XanMod stable as backup
-
 ## Modern Desktop Technologies
 * Wayland, X11 available as backup
 * Pipewire (WirePlumber), PulseAudio available as backup
@@ -18,3 +17,9 @@
 ## Default Apps
 * MauiKit core apps
 * Librewolf
+* ONLYOFFICE
+## Installation
+* rEFInd bootloader
+* default option uses proprietary drivers if their hardware is detected
+* option to boot without proprietary drivers
+* ISO identical to final install
