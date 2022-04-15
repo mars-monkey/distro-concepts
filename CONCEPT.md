@@ -23,8 +23,8 @@
 * default option uses proprietary drivers if their hardware is detected
 * option to boot without proprietary drivers
 * ISO same as final install
-* Calamares fork as installer
-* Encrypted btrfs with snapper by default
+* Calamares fork as installer - better looks
+* Encrypted by default
 * Import some preferences/data/configs from other os partition?
 * Secure Boot enabled
-* 
+* Proprietary drivers installed by default, option to install proprietary codecs and fonts
