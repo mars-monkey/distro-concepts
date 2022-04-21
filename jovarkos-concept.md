@@ -1,4 +1,4 @@
-# My practical OS concept
+# My JovarkOS concept
 This concept is feasibly possible to make with relatively minimal actual development, mostly just configuration. It's goal is to look great, be easy for new users, have the best defaults, retain power-user level customizability, and incorporate new and useful software. It is not ideal because it takes already existing software and puts the best stuff together out of the box.
 ## System Base
 * Based on openSUSE MicroOS with KDE desktop package
