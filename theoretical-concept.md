@@ -1,7 +1,7 @@
 # My theoretical OS concept
-This concept is a mix of great, already-existing tools and concept tools that do better than current tools.
+This concept is a mix of great, already-existing tools and conceptual tools that do better than current tools.
 ## System Base
-* Based on openSUSE MicroOS
+* Based on Fedora Kinoite
 * XanMod edge default kernel, XanMod stable as backup
 ## Modern Desktop Technologies
 * Wayland, X11 available as backup
