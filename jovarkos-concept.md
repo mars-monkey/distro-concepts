@@ -37,6 +37,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Photos
 * Videos
 * Drawing
+* Pika Backup
 * Extension Manager
 * Librewolf (libadwaita theme)
 * ONLYOFFICE
