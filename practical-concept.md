@@ -1,7 +1,7 @@
 # My practical OS concept
 This concept is feasibly possible to make with relatively minimal actual development, mostly just configuration. It's goal is to look great, be easy for new users, have the best defaults, retain power-user level customizability, and incorporate new and useful software. It is not ideal because it takes already existing software and puts the best stuff together out of the box.
 ## System Base
-* Based on openSUSE MicroOS with KDE desktop package
+* Based on Fedora Workstation
 * XanMod edge default kernel, XanMod stable as backup
 ## Modern Desktop Technologies
 * Wayland, X11 available as backup
@@ -9,15 +9,13 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Flatpak used for all non-essential apps
 * Flathub enabled out of the box
 ## Desktop Environment Configuration
-* Minimal Plasma desktop installation
-* Customized Orchis Qt theme
-* Papirus icon theme with tweaks
+* Minimal GNOME installation
+* Adwaita icon theme with tweaks
+* adw-gtk3 theme available
 * Custom Plymouth boot screen with logo
-* SDDM theme based on Chili
-* Clock and resource monitor widgets
 * Curated custom wallpapers
 ## Default Apps
-* MauiKit core apps
+* Gnome apps
 * Librewolf
 * ONLYOFFICE
 ## Installation
