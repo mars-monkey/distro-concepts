@@ -1,5 +1,5 @@
 # My JovarkOS concept
-This concept is feasibly possible to make with relatively minimal actual development, mostly just configuration. It's goal is to look great, be easy for new users, have the best defaults, retain power-user level customizability, and incorporate new and useful software. It is not ideal because it takes already existing software and puts the best stuff together out of the box.
+This concept is my opinion on the direction JovarkOS should take in order to achieve its goals of usability, performance, and stability out of the box on the desktop.
 ## System Base
 * Based on Arch Linux
 * XanMod edge default kernel, XanMod stable as backup
@@ -10,7 +10,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Flathub enabled out of the box
 ## Desktop Environment Configuration
 * Minimal Gnome desktop installation
-* adw-gtk3 GTK3 theme
+* adw-gtk3 GTK3 theme available in Gnome Tweaks
 * Papirus icon theme with tweaks
 * Custom Plymouth boot screen with logo
 * GDM
