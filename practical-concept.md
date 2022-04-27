@@ -16,6 +16,30 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Curated custom wallpapers
 ## Default Apps
 * Gnome apps
+* Core Gnome apps:
+* Software
+* Settings
+* Console
+* Files
+* Text Editor
+* System Monitor
+* Tour
+* Tweaks
+* Calculator
+* Calendar
+* Characters
+* Cheese
+* Clocks
+* Contacts
+* Baobab
+* Evince
+* Help
+* Image Viewer
+* Photos
+* Videos
+* Drawing
+* Pika Backup
+* Extension Manager
 * Librewolf
 * ONLYOFFICE
 ## Installation
