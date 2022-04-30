@@ -3,11 +3,13 @@ This concept is feasibly possible to make with relatively minimal actual develop
 ## System Base
 * Based on Fedora Workstation
 * XanMod edge default kernel, XanMod stable as backup
+* Snapper autosnapshots
 ## Modern Desktop Technologies
 * Wayland, X11 available as backup
 * Pipewire (WirePlumber), PulseAudio available as backup
 * Flatpak used for all non-essential apps
 * Flathub enabled out of the box
+* Btrfs with subvolumes, zstd compression, deduplication, and no access time
 ## Desktop Environment Configuration
 * Minimal GNOME installation
 * Adwaita icon theme with tweaks
