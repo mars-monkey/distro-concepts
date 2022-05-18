@@ -1,8 +1,10 @@
 # My theoretical OS concept
 This concept is a mix of great, already-existing tools and conceptual tools that do better than current tools.
+## Release Model
+### Stable
+* LTS kerne
 ## System Base
-* Based on Fedora Kinoite
-* XanMod edge default kernel, XanMod stable as backup
+* XanMod kernel
 ## Modern Desktop Technologies
 * Wayland, X11 available as backup
 * Pipewire (WirePlumber), PulseAudio available as backup
