@@ -2,18 +2,32 @@
 This concept is a mix of great, already-existing tools and conceptual tools that do better than current tools.
 ## Release Model
 ### Stable
-* LTS kerne
+* Latest LTS kernel
+* Static LTS/ESR software
+* January/February release
+* Supported for 2.5 years
+## Edge
+* Rolling software:
+*  stable kernel
+* graphics stack
+* desktop technologies
 ## System Base
 * XanMod kernel
+* rEFInd boot manager
+* libostree updates
+* package layering with pacman
+* btrfs
+* root partition mounted as read-only on boot
+* two snapshots: latest and backup
 ## Modern Desktop Technologies
 * Wayland, X11 available as backup
 * Pipewire (WirePlumber), PulseAudio available as backup
 * Flatpak used for all non-essential apps
 * Flathub enabled out of the box
 ## Desktop Environment Configuration
-* Custom Qt-based lightweight DE
-* HIG: Common options first with advanced hidden (burger menu), simple, flat, rounded, buttons in header bar,
-* Custom simple, rounded, flat theme
+* Rust/C based WM and shell
+* GTK4+libadwaita fork
+* HIG: GNOME
 * Papirus icon theme with tweaks
 * Custom Plymouth boot screen with logo
 * Fork of SDDM with theme based on Chili
