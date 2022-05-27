@@ -12,7 +12,6 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Flathub enabled out of the box
 ## Desktop Environment Configuration
 * Adwaita icon theme with tweaks
-* adw-gtk3 theme available
 * Custom Plymouth boot screen with logo
 * Curated custom wallpapers
 ## Default Apps
