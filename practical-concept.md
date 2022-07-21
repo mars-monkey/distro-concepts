@@ -13,6 +13,16 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Curated custom wallpapers
 
 ## Default Apps
+* ostree:
+* Black Box
+* Disk Usage Analyzer
+* Disks
+* Files
+* Help
+* Settings
+* Software
+* System Monitor
+* Black Box
 * Core Gnome apps:
 * Calculator
 * Calendar
@@ -29,6 +39,21 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Help
 * Logs
 * Maps
+* Music
+* Photos
+* Settings
+* Software
+* System Monitor
+* Text Editor
+* Tour
+* Weather
+* Other apps:
+* Amberol
+* Black Box
+* Extension Manager
+* Image Roll
+* LibreOffice
+* Librewolf
 
 in progress
 * Settings
