@@ -2,22 +2,35 @@
 This concept is feasibly possible to make with relatively minimal actual development, mostly just configuration. It's goal is to look great, be easy for new users, have the best defaults, retain power-user level customizability, and incorporate new and useful software. It is not ideal because it takes already existing software and puts the best stuff together out of the box.
 ## System Base
 * Based on Fedora Silverblue
-* XanMod stable kernel
-* 2 root snapshots: latest and backup
-* Btrfs with subvolumes, zstd compression, deduplication, and no access time
+
 ## Modern Desktop Technologies
-* Wayland, X11 available as backup
-* Pipewire (WirePlumber), PulseAudio available as backup
 * Flatpak used for all non-essential apps
-* Flathub enabled out of the box
+* Unfiltered Flathub enabled out of the box
+
 ## Desktop Environment Configuration
-* Adwaita icon theme with tweaks
+* Flat Remix icon theme with tweaks
 * Custom Plymouth boot screen with logo
 * Curated custom wallpapers
+
 ## Default Apps
-* Gnome apps
 * Core Gnome apps:
-* Software
+* Calculator
+* Calendar
+* Characters
+* Cheese
+* Clocks
+* Connections
+* Contacts
+* Disk Usage Analyzer
+* Disks
+* Document Viewer
+* Files
+* Fonts
+* Help
+* Logs
+* Maps
+
+in progress
 * Settings
 * Console
 * Files
