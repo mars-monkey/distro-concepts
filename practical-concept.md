@@ -61,7 +61,14 @@ This concept is hypothetically constructable using pre-existing software, with l
 * Weather
 
 ## Installation
+* Fedora Media Writer soft fork
+* Nvidia and Intel/AMD ISO's
+* Themed GRUB boot loader
+* Live session same as full install
+* 
+
 * rEFInd bootloader
+* ISO with prop
 * default option uses proprietary drivers if their hardware is detected
 * option to boot without proprietary drivers
 * ISO same as final install
