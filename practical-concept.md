@@ -1,10 +1,9 @@
 # My practical OS concept
 This concept is feasibly possible to make with relatively minimal actual development, mostly just configuration. It's goal is to look great, be easy for new users, have the best defaults, retain power-user level customizability, and incorporate new and useful software. It is not ideal because it takes already existing software and puts the best stuff together out of the box.
-## System Base
-* Based on Fedora Silverblue
 
-## Modern Desktop Technologies
-* Flatpak used for all non-essential apps
+## Based on Fedora Silverblue
+
+## Differences
 * Unfiltered Flathub enabled out of the box
 
 ## Desktop Environment Configuration
@@ -12,8 +11,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Custom Plymouth boot screen with logo
 * Curated custom wallpapers
 
-## Default Apps
-* ostree:
+## ostree Apps
 * Black Box
 * Disk Usage Analyzer
 * Disks
@@ -22,8 +20,9 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Settings
 * Software
 * System Monitor
-* Black Box
-* Core Gnome apps:
+
+## Flatpak Apps
+* Amberol
 * Calculator
 * Calendar
 * Characters
@@ -34,12 +33,18 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Disk Usage Analyzer
 * Disks
 * Document Viewer
+* Drawing
+* Extension Manager
 * Files
 * Fonts
 * Help
+* Image Roll
+* LibreOffice
+* Librewolf
 * Logs
 * Maps
 * Music
+* Pika Backup
 * Photos
 * Settings
 * Software
@@ -47,13 +52,9 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Text Editor
 * Tour
 * Weather
-* Other apps:
-* Amberol
-* Black Box
-* Extension Manager
-* Image Roll
-* LibreOffice
-* Librewolf
+
+
+
 
 in progress
 * Settings
