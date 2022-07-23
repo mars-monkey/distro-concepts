@@ -1,13 +1,21 @@
-# My practical OS concept
-This concept is feasibly possible to make with relatively minimal actual development, mostly just configuration. It's goal is to look great, be easy for new users, have the best defaults, retain power-user level customizability, and incorporate new and useful software. It is not ideal because it takes already existing software and puts the best stuff together out of the box.
+### Definition
+This concept is hypothetically constructable using pre-existing software, with little to no additional *development* required; only configuration.
 
-## Based on Fedora Silverblue
+### Goals (in rough order of importance)
+* Ease of use
+* Cutting edge technologies
+* Practical defaults
+* Stability
+* Aesthetics
 
-## Differences
+### Based on Fedora Silverblue - Changes follow:
+
+### Package Management
 * Unfiltered Flathub enabled out of the box
-* Flat Remix icon theme with tweaks
-
-## ostree Apps
+* All Flatpaks installed from Flathub
+* Flat Remix icon theme
+### Default Apps:
+### ostree
 * Black Box
 * Disk Usage Analyzer
 * Disks
@@ -18,7 +26,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * System Monitor
 * Tweaks
 
-## Flatpak Apps
+### Flatpak
 * Amberol
 * Calculator
 * Calendar
