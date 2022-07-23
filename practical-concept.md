@@ -5,11 +5,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 
 ## Differences
 * Unfiltered Flathub enabled out of the box
-
-## Desktop Environment Configuration
 * Flat Remix icon theme with tweaks
-* Custom Plymouth boot screen with logo
-* Curated custom wallpapers
 
 ## ostree Apps
 * Black Box
@@ -20,6 +16,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Settings
 * Software
 * System Monitor
+* Tweaks
 
 ## Flatpak Apps
 * Amberol
@@ -36,6 +33,7 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * Drawing
 * Extension Manager
 * Files
+* Flatseal
 * Fonts
 * Help
 * Image Roll
@@ -51,36 +49,9 @@ This concept is feasibly possible to make with relatively minimal actual develop
 * System Monitor
 * Text Editor
 * Tour
+* Warp
 * Weather
 
-
-
-
-in progress
-* Settings
-* Console
-* Files
-* Text Editor
-* System Monitor
-* Tour
-* Tweaks
-* Calculator
-* Calendar
-* Characters
-* Cheese
-* Clocks
-* Contacts
-* Baobab
-* Evince
-* Help
-* Image Viewer
-* Photos
-* Videos
-* Drawing
-* Pika Backup
-* Extension Manager
-* Librewolf
-* ONLYOFFICE
 ## Installation
 * rEFInd bootloader
 * default option uses proprietary drivers if their hardware is detected
