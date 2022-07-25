@@ -14,7 +14,9 @@ This concept is hypothetically constructable using pre-existing software, with l
 * Unfiltered Flathub enabled out of the box
 * All Flatpaks installed from Flathub
 * Flat Remix icon theme
+
 ### Default Apps:
+
 ### ostree
 * Black Box
 * Disk Usage Analyzer
@@ -65,15 +67,6 @@ This concept is hypothetically constructable using pre-existing software, with l
 * Nvidia and Intel/AMD ISO's
 * Themed GRUB boot loader
 * Live session same as full install
-* 
-
-* rEFInd bootloader
-* ISO with prop
-* default option uses proprietary drivers if their hardware is detected
-* option to boot without proprietary drivers
-* ISO same as final install
 * OS-installer
-* Encrypted by default
-* Import some preferences/data/configs from other os partition?
-* Secure Boot enabled
-* Proprietary drivers installed by default, option to install proprietary codecs and fonts
+* Secure Boot and encrypted by default
+* Installs proprietary drivers and codecs by default
