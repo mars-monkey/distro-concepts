@@ -1,23 +1,23 @@
 # My JovarkOS concept
-This concept is my opinion on the direction JovarkOS should take in order to achieve its goals of usability, performance, and stability out of the box on the desktop.
+This concept is my opinion on the direction JovarkOS should take in order to achieve its goals of usability, aesthetics, performance, and stability out of the box on the desktop.
 
 ## System Base
 * Based on Arch Linux
-* XanMod edge default kernel, XanMod stable as backup
+* Linux kernel: stable branch, lts branch as backup
 
 ## Modern Desktop Technologies
-* Wayland, X11 available as backup
+* Wayland by default except for Nvidia, X11 available as backup
 * Pipewire (WirePlumber), PulseAudio available as backup
 * Flatpak used for all possible apps, except where it removes functionality
 * Flathub enabled out of the box
 
 ## Desktop Environment Configuration
 * Minimal Gnome desktop installation
-* adw-gtk3 GTK3 theme available in Gnome Tweaks
-* Flat Remix icon theme with tweaks
+* adw-gtk3 GTK3 theme
+* Flat Remix icon theme (tweaks?)
 * Custom Plymouth boot screen with logo
 * GDM
-* Curated custom wallpapers
+* Curated custom wallpapers (Unsplash, or I can take some)
 
 ## Default Apps
 * Core Gnome apps:
