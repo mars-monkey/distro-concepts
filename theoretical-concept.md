@@ -1,15 +1,43 @@
-# My theoretical OS concept
-This concept is a mix of great, already-existing tools and conceptual tools that do better than current tools.
+## My theoretical OS concept
+This is a concept operating system using both pre-existing and hypothetical tools.
 
-## Release Model
-### Rolling release
-* stable kernel
-* stable packages
+### Release Pipeline
+1. Stable release source
+2. Build servers
+3. [openQA](https://open.qa)
+4. mirrors
+
+### Release model
+* follows upstream stable channel release cycle (e.x. linux stable branch)
+* custom desktop environment setup with biannual updates
+
+### Package management
+* [Guix](https://guix.gnu.org) functional package manager
+* Atomic, transactional updates
+* Reproducible, universal packaging
+* Declarative system and package configurations in Guile Scheme
+* Guix generations with regular garbage collection
+
+### Boot Process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## System Base
 * Stable linux kernel
-* rEFInd boot manager
-* Atomic updates with libostree
+* rEFInd boot manager (quick boot by default)
+* Atomic u
 * package layering with rpm-ostree
 * btrfs - zstd, trim (ssds), noatime
 * two ostree/btrfs snapshots: latest and backup
