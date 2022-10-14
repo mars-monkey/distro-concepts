@@ -48,12 +48,12 @@ This is a concept operating system using both pre-existing and hypothetical tool
   - powerful
   - granular configuration
 
-## Default Apps
+### Default Apps
 * COSMIC default
 * Librewolf
 * Libreoffice
 
-## Installation
+### Installation
 * rEFInd bootloader
 * default option uses proprietary drivers if their hardware is detected
 * option to boot without proprietary drivers
