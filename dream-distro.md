@@ -7,9 +7,7 @@ This is a concept operating system using both pre-existing and hypothetical tool
 3. [openQA](https://open.qa)
 4. Mirrors
 
-### Release model
-* Follows upstream stable channel release cycle
-* Custom desktop environment setup with biannual updates
+### Release model: follows upstream stable channel release cycle
 
 ### Package management
 * [Guix](https://guix.gnu.org) functional package manager
@@ -20,9 +18,9 @@ This is a concept operating system using both pre-existing and hypothetical tool
 * Custom repo with free and proprietary software
 
 ### Boot Process
-* rEFInd boot manager (accessed with keystroke during boot)
-* Repair/restore live partition
-* Generations and debug mode
+* rEFInd boot manager (accessed with keybind after POST)
+  - Recovery: live environment with advanced recovery tools available
+  - Guix generations: different snapshots of the system
 * Plymouth boot logo
 * herd init system
 * proprietary firmware and drivers included (free ISO option)
