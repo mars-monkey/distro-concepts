@@ -2,23 +2,22 @@
 This concept is hypothetically constructable using pre-existing software, with little to no additional *development* required; only configuration.
 
 ### Goals (in rough order of importance)
-* Ease of use
-* Cutting edge technologies
+* Easy for everyone
+* Use best solutions
 * Practical defaults
 * Stability
 * Aesthetics
 
-### Based on Fedora Silverblue - Changes follow:
+### Based on Fedora - Changes follow:
 
 ### Package Management
+* Fedora flatpak remote removed
 * Unfiltered Flathub enabled out of the box
-* All Flatpaks installed from Flathub
-* Flat Remix icon theme
+* All apps possible installed from Flathub
 
 ### Default Apps:
 
-### ostree
-* Black Box
+### dnf
 * Disk Usage Analyzer
 * Disks
 * Files
@@ -30,6 +29,7 @@ This concept is hypothetically constructable using pre-existing software, with l
 
 ### Flatpak
 * Amberol
+* Black Box
 * Calculator
 * Calendar
 * Characters
