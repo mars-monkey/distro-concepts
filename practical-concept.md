@@ -1,18 +1,10 @@
 ### Definition
 This concept is hypothetically constructable using pre-existing software, with little to no additional *development* required; only configuration.
 
-### Goals (in rough order of importance)
-* Easy for everyone
-* Use best solutions
-* Practical defaults
-* Stability
-* Aesthetics
-
-### Based on Fedora - Changes follow:
+### Based on Fedora Workstation - Changes follow:
 
 ### Package Management
-* Fedora flatpak remote removed
-* Unfiltered Flathub enabled out of the box
+* Unfiltered Flathub enabled
 * All apps possible installed from Flathub
 
 ### Default Apps:
