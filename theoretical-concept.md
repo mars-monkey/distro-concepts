@@ -1,11 +1,11 @@
 ## My theoretical OS concept
-This is a concept operating system using both pre-existing and hypothetical tools based on the Guix System GNU Linux distribution.
+This is a concept operating system using both pre-existing and hypothetical tools based on the Guix System Linux distribution.
 
 ### Release Pipeline
 1. Stable release source
 2. Build servers
 3. [openQA](https://open.qa)
-4. Mirrors
+4. Mirrors (official and 3rd party)
 
 ### Release model: follows upstream stable channel release cycle
 
